@@ -1,6 +1,6 @@
 <div class="row">
     <div class="col">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow fixed-top">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top mb-5 shadow">
             <div class="container">
                 <a class="navbar-brand" href="inicio.php">Sistemas Web</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
