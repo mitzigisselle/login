@@ -11,16 +11,16 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item active">
-                            <a class="nav-link" href="inicio.php">inicio</a>
+                            <a class="nav-link" href="inicio.php"> <i class="fas fa-house-user"></i> Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="gusto.php">¿Cuales son mis gustos?</a>
+                            <a class="nav-link" href="gusto.php"><i class="fab fa-angellist"></i> ¿Cuales son mis gustos?</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="programacion.php">¿Por que estudio programación?</a>
+                            <a class="nav-link" href="programacion.php">Por que estudio programación <i class="fas fa-question"></i></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./servidor/salir.php">Salir</a>
+                            <a class="nav-link" href="./servidor/salir.php"> <i class="fas fa-power-off"></i> Salir</a>
                         </li>
                     </ul>
                 </div>
